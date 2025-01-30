@@ -8,4 +8,4 @@ Utilizando HTML, CSS e JS criei um design responsivo e visualmente atraente, que
 esse projeto me trouxe um pouco mais de experiencias com as linguagens alem de ter sido bem desafiador a criação.
 <br>
 
-<img src="...">
+<img src="https://github.com/luizzvianna/projeto-yu-gi-oh/blob/master/src/imagens/YUGIOH.png?raw=true">
